@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:wisata_candi/data/candi_data.dart';
 import 'package:wisata_candi/screens/detail_screen.dart';
-import 'package:wisata_candi/widgets/ProfileScreen.dart';
+import 'package:wisata_candi/screens/ProfileScreen.dart';
 
 
 void main() {
